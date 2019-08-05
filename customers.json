@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"John Snow",
+        "company":"dasd",
+        "phone":555555555555555
+    
+    },
+    {
+        "id":2,
+        "name":"John row",
+        "company":"gap",
+        "phone":1111111111
+    
+    },
+    {
+        "id":3,
+        "name":"John fow",
+        "company":"hoe",
+        "phone":3333333333333
+    
+    }
+
+
+
+]
